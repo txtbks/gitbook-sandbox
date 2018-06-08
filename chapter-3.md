@@ -1,7 +1,7 @@
 ---
 description: >-
-  There are many excellent reasons beyond cost savings that make open education
-  attractive to educators.
+  This is a test! Please come back in fall 2018 if you'd like to see the final
+  resource.
 ---
 
 # 3. Why Open Education?

@@ -1,5 +1,7 @@
 ---
-description: Libraries are part of the engine powering the open education movement.
+description: >-
+  This is a test! Please come back in fall 2018 if you'd like to see the final
+  resource.
 ---
 
 # 2. Libraries and Open Education
