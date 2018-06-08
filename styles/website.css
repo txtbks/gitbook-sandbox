@@ -1,2 +1,2 @@
-p {font-face: nunito; color: #1f2222;}
-h1 {font-face: roboto; color: #d92c35;}
+p {font-face: nunito !important; color: #1f2222 !important;}
+h1 {font-face: roboto !important; color: #d92c35 !important;}
