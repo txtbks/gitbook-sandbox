@@ -20,11 +20,6 @@ Expanding educational opportunities is more possible now than it has ever been b
 Open Education is the realization of everything education can be in today’s world: where teachers, learners and members of society can leverage all of the new pathways offered by technology to create and share knowledge together. This can start as small as a student using open resources to enrich her education, or become as large as an entire university that offers courses openly online to the entire world.  
 
 <div>
-<script type="application/json" class="js-hypothesis-config">
-  {
-    "openSidebar": false
-  }
-</script>
 <script async src="https://hypothes.is/embed.js"></script>
   </div>
   
